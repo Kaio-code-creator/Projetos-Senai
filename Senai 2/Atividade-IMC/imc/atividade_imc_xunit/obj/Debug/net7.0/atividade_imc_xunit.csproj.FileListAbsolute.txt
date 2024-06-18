@@ -1,0 +1,15 @@
+C:\Users\Kaio Alves\Documents\GitHub\Senai-\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.AssemblyReference.cache
+C:\Users\Kaio Alves\Documents\GitHub\Senai-\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio Alves\Documents\GitHub\Senai-\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfoInputs.cache
+C:\Users\Kaio Alves\Documents\GitHub\Senai-\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfo.cs
+C:\Users\Kaio Alves\Documents\GitHub\Senai-\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.CoreCompileInputs.cache
+c:\Users\Kaio Alves\Downloads\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.AssemblyReference.cache
+c:\Users\Kaio Alves\Downloads\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kaio Alves\Downloads\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfoInputs.cache
+c:\Users\Kaio Alves\Downloads\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfo.cs
+c:\Users\Kaio Alves\Downloads\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.CoreCompileInputs.cache
+C:\Users\Kaio Alves\Downloads\atividade imc\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.AssemblyReference.cache
+C:\Users\Kaio Alves\Downloads\atividade imc\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio Alves\Downloads\atividade imc\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfoInputs.cache
+C:\Users\Kaio Alves\Downloads\atividade imc\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.AssemblyInfo.cs
+C:\Users\Kaio Alves\Downloads\atividade imc\atividade_imc_xunit\obj\Debug\net7.0\atividade_imc_xunit.csproj.CoreCompileInputs.cache
